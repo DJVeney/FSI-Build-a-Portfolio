@@ -1,0 +1,22 @@
+html {
+    text-align: center;
+}
+
+.blue-bg {
+    background-color: rgb(8, 3, 0);
+    color: white;
+}
+
+body {
+    background-color: grey;
+}
+
+p {
+    border-style: solid;
+    border-color: rgb(46, 38, 212);
+}
+
+img.src {
+    border-style: solid;
+    border-color: gold;
+}
